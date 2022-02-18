@@ -1,4 +1,4 @@
-# ai-enterprise-assignment-lab-2
+# AI in Enterprise Systems Lab #2 Code
 
 This is an assignment from the course "AI in enterprise systems" of the AIDI program at Durham College.
 
